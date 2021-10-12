@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+il{
+    margin: 0.67em;
+}
+
+#listeNourriture{
+    visibility: hidden;
+}
